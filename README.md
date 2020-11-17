@@ -8,3 +8,7 @@ Libraries:
 - numpy
 - pandas
 - scikitlearn
+
+Tools
+- Python 3
+- Jupyter Notebook
