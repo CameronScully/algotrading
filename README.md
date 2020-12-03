@@ -9,6 +9,7 @@ Packages:
 - pandas
 - scikitlearn
 - xlrd
+- https://github.com/cjhutto/vaderSentiment
 
 Tools
 - Python 3
